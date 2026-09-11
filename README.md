@@ -7,14 +7,14 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/CodeWithKhoa/CertPanel/blob/main/LICENSE">
+  <a href="https://github.com/TranDangKhoaAutomation/CertPanel/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/PHP-%3E%3D5.6-blue.svg" alt="PHP Version">
   </a>
-  <a href="https://github.com/CodeWithKhoa/CertPanel/actions">
-    <img src="https://img.shields.io/github/actions/workflow/status/CodeWithKhoa/CertPanel/main.yml?branch=main" alt="Build Status">
+  <a href="https://github.com/TranDangKhoaAutomation/CertPanel/actions">
+    <img src="https://img.shields.io/github/actions/workflow/status/TranDangKhoaAutomation/CertPanel/main.yml?branch=main" alt="Build Status">
   </a>
 </p>
 
@@ -89,7 +89,7 @@ Before you begin, ensure you have:
 ### Installation Steps
 1.  **Clone or download the repository to your hosting:**
     ```bash
-    git clone https://github.com/CodeWithKhoa/CertPanel.git
+    git clone https://github.com/TranDangKhoaAutomation/CertPanel.git
     ```
 
 2.  **Navigate into the project directory:**
@@ -130,8 +130,8 @@ All contributions to improve this project are welcome. If you have an idea, a fe
 
 This project was created and is maintained by **Tran Dang Khoa**.
 
--   **GitHub:** [@CodeWithKhoa](https://github.com/codewithkhoa)
--   **YouTube:** [@codewithkhoa](https://youtube.com/@codewithkhoa)
+-   **GitHub:** [@TranDangKhoaAutomation](https://github.com/TranDangKhoaAutomation)
+-   **YouTube:** [@TranDangKhoaAutomation](https://youtube.com/@codewithkhoa)
 -   **Email:** [trandangkhoa31122006@gmail.com](mailto:trandangkhoa31122006@gmail.com)
 
 ---
